@@ -1,3 +1,12 @@
-This lua plugin adds a bunch of key bindings that are quickly accessible with your left hand, mostly with no modifier keys required. Note that this ruins the text tool, because for example, typing `f` gets you out of text mode and into pen mode. So you have to change `f` to `<Ctrl>f` or something like that. 
+A simple [Xournal++](https://github.com/xournalpp/xournalpp) plugin providing sensible defaults, keybinds, and missing functionality
 
-To install, follow the instructions at https://xournalpp.github.io/guide/plugins/.
+## Features
+- Mnemonic bindings for common tools
+- More pleasant color palettes for both pen and highlighter
+- Keybindings for unbound functions (e.g. Preferences)
+- Color cycling (insp. [ColorCycle](https://github.com/xournalpp/xournalpp/tree/master/plugins/ColorCycle)) w/ a key
+- Inc/dec stroke size easily
+
+
+### Installation
+To install or make your own modifications, read [here](https://xournalpp.github.io/guide/plugins/plugins/#plugin-manager).
